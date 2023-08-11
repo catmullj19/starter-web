@@ -17,4 +17,6 @@ Can be deployed on a web server or on a local filesystem
 
 ## How To Contribute
 
+### Copyright
 
+2023 GFI
