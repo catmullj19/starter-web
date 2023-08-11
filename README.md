@@ -14,8 +14,9 @@ To demonstrate using git and github
 
 Can be deployed on a web server or on a local filesystem
 
-
 ## How To Contribute
+
+Please fork this repository and issue pull request for review
 
 ### Copyright
 
